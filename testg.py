@@ -1,7 +1,6 @@
 import unittest
 
 from gil_r import Item, GildedRose
-# from factor import DexElixItems, agedBire, backStage, conJ
 
 class GildedRoseTest(unittest.TestCase):
     def test_foo(self):

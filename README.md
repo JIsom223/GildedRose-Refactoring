@@ -19,8 +19,8 @@ Collaboration tools:
   
   Link to the refactoring of the code: https://kennesawedu.sharepoint.com/sites/Team-Team6-EmergSW/Shared%20Documents/General/Recordings/Meeting%20in%20_General_%20-20220227_193455-Meeting%20Recording.mp4?web=1
   
+   If you want to run the unittesting in VS Code like we did, please download the "UnitTesting_in_VSCode" word file.  
   
   
   Please Note: There was an indentation issue in the original code, which gave incorrect results when testing our refactored version. This error has since been fixed and now displays the same results as our code.
   
-  If you want to run the unittesting in VS Code like we did, please download the "UnitTesting_in_VSCode" word file.

@@ -16,6 +16,8 @@ Collaboration tools:
   Visual Studio Code  
   GitHub   
   
+  The test case file (test-results.png) has 2 sets of tests. The first 7 images are before refactoring and the next 4 are after refactoring.
+  
   Link to the creation of the test cases: https://kennesawedu.sharepoint.com/:v:/s/Team-Team6-EmergSW/Eb44JK9ucIpPhTX39MSDd3AB1X4WhQlGGAwN3eI3WD_8mw
   
   Link to the refactoring of the code: https://kennesawedu.sharepoint.com/:v:/s/Team-Team6-EmergSW/EQFsQj2Wd6hBlBFhbEYMVYcBFRkftY_JdUclyIwqmo0ahg

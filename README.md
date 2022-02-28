@@ -9,6 +9,7 @@ James Isom
 Reza Ebrahimi  
 Ryan Juza  
 Bindu Madhavi Peddireddy  
+Naike Placide  
 
 Collaboration tools:  
   Microsoft Teams  

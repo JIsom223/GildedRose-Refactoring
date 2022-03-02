@@ -16,7 +16,7 @@ Collaboration tools:
   Visual Studio Code  
   GitHub   
   
-  The reason why we chose VS Code instead of other IDEs is because of it's compatibility with Github. VS Code makes it very simple to push commits and pull them from other collaborators.
+  The reason why we chose VS Code instead of other IDEs is because of it's compatibility with Github. VS Code makes it very simple to push commits and pull them from other collaborators to make sure we are all working on the most current version. We also believe that using python provides several advantages in terms of both refactoring unit testing along with coverage. Python is also a language that the majority of team members have more knowledge and skill to work with. The two python tools for unit testing and coverage, which are unittest & coverage.py were used for this assignment. 
   
   The test case file (test-results.png) has 2 sets of tests. The first 7 images are before refactoring and the next 4 are after refactoring.
   

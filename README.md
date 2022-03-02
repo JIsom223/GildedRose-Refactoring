@@ -16,6 +16,8 @@ Collaboration tools:
   Visual Studio Code  
   GitHub   
   
+  The reason why we chose VS Code instead of other IDEs is because of it's compatibility with Github. VS Code makes it very simple to push commits and pull them from other collaborators.
+  
   The test case file (test-results.png) has 2 sets of tests. The first 7 images are before refactoring and the next 4 are after refactoring.
   
   Link to the creation of the test cases: https://kennesawedu.sharepoint.com/:v:/s/Team-Team6-EmergSW/Eb44JK9ucIpPhTX39MSDd3AB1X4WhQlGGAwN3eI3WD_8mw
